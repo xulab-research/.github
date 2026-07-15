@@ -1,6 +1,6 @@
 # Xu Lab 👋
 
-**Xu Lab** is a energetic research group working at the crossroads of **AI**, **bioinformatics**, **computational biology**, and **scientific discovery**.  
+**Xu Lab** is a energetic research group working at the crossroads of **AI**, **Bioinformatics**, **Computational Biology**, and **Scientific Discovery**.  
 We develop machine learning and deep learning methods for protein engineering, mutation effect prediction, codon-level sequence modeling, and reproducible biological data analysis.
 
 Our goal is to build practical, interpretable, and open research tools that help make biological design and discovery cleaner, smarter, and more reproducible.
