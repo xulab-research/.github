@@ -1,46 +1,45 @@
-# Xu Lab 👋
+<div align="center">
 
-**Xu Lab** is a energetic research group working at the crossroads of **AI**, **Bioinformatics**, **Computational Biology**, and **Scientific Discovery**.  
-We develop machine learning and deep learning methods for protein engineering, mutation effect prediction, codon-level sequence modeling, and reproducible biological data analysis.
+# 🧬 Xu Lab
 
-Our goal is to build practical, interpretable, and open research tools that help make biological design and discovery cleaner, smarter, and more reproducible.
+### AI for Protein Engineering, Bioinformatics, and Scientific Discovery
 
-## Research Interests
+</div>
 
-- AI for protein engineering
-- Mutation effect prediction and directed evolution
-- Bioinformatics and computational biology
-- Codon language models and biological sequence modeling
-- Biosynthetic gene cluster analysis
-- Reinforcement learning for biological sequence optimization
-- Open-source and reproducible scientific computing
+## About Us
 
-## Contact & Profiles
+**Xu Lab** is a research group working at the intersection of **artificial intelligence**, **bioinformatics**, **computational biology**, and **protein engineering**. We develop practical, interpretable, and reproducible machine-learning methods for understanding and engineering biological sequences and structures.
 
-<p align="left">
-  <a href="mailto:xyx@zuel.edu.cn">
-    <img src="https://img.shields.io/badge/Email-xyx%40zuel.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://xulab-research.yuque.com/r/organizations/homepage">
-    <img src="https://img.shields.io/badge/Homepage-Xu%20Lab-25A162?style=flat-square&logo=yuque&logoColor=white" alt="Xu Lab Homepage" />
-  </a>
-  <a href="https://github.com/xulab-research">
-    <img src="https://img.shields.io/badge/GitHub-xulab--research-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+Our work aims to improve mutation-effect prediction, accelerate AI-assisted directed evolution, and build open research resources that support biological design and discovery.
 
-<p align="left">
-  <a href="https://huggingface.co/xulab-research">
-    <img src="https://img.shields.io/badge/Hugging%20Face-xulab--research-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  </a>
-  <a href="https://orcid.org/0000-0002-9981-2097">
-    <img src="https://img.shields.io/badge/ORCID-0000--0002--9981--2097-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=PpO2_vsAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
-  </a>
-</p>
+## Research Areas
+
+- **Protein mutation-effect prediction** — predicting the effects of amino-acid substitutions on protein stability, pH-related properties, solubility, and other functional traits.
+- **AI-assisted protein engineering and directed evolution** — prioritizing beneficial mutations and multi-site variants to improve experimental screening efficiency.
+- **Codon language models and codon optimization** — learning codon-level representations and designing coding sequences with improved expression and host compatibility.
+- **Protein sequence–structure learning** — integrating protein language models, structural priors, graph representations, and multimodal neural networks.
+- **Biosynthetic gene cluster discovery** — identifying BGC boundaries, classes, core biosynthetic enzymes, and distant homologs from complete genomes and metagenomic contigs.
+- **Reinforcement learning for biological sequence optimization** — optimizing protein and nucleotide sequences under multiple biological objectives and constraints.
+- **Open and reproducible bioinformatics** — developing datasets, benchmarks, data-cleaning pipelines, models, and software for transparent scientific research.
+
+## Collaboration and Recruitment
+
+We welcome collaboration with researchers and organizations working in machine learning, bioinformatics, protein engineering, synthetic biology, and computational biology.
+
+Xu Lab is also interested in recruiting motivated undergraduate and graduate students with backgrounds in **data analysis**, **machine learning**, **deep learning**, **bioinformatics**, or **protein bioengineering**.
+
+## Contact
+
+- **Email:** [xyx@zuel.edu.cn](mailto:xyx@zuel.edu.cn)
+- **Homepage:** [Xu Lab Homepage](https://xulab-research.yuque.com/r/organizations/homepage)
+- **GitHub:** [xulab-research](https://github.com/xulab-research)
+- **ORCID:** [0000-0002-9981-2097](https://orcid.org/0000-0002-9981-2097)
+- **Google Scholar:** [Academic Profile](https://scholar.google.com/citations?user=PpO2_vsAAAAJ)
 
 ---
 
-**Xu Lab** · Exploring biology with AI 🌱
+<div align="center">
+  
+<strong>Xu Lab · Exploring biology with AI</strong> 🌱
+
+</div>
