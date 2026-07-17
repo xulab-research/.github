@@ -17,9 +17,12 @@ Our goal is to build practical, interpretable, and open research tools that help
 
 ## Contact
 
+- Email: xyx@zuel.edu.cn
 - Homepage: https://xulab-research.yuque.com/r/organizations/homepage
 - GitHub: https://github.com/xulab-research
-- Email: xyx@zuel.edu.cn
+- Hugging Face: https://huggingface.co/xulab-research
+- ORCID: https://orcid.org/my-orcid?orcid=0000-0002-9981-2097
+- Google Scholar: https://scholar.google.com/citations?user=PpO2_vsAAAAJ
 
 ---
 
