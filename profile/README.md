@@ -35,7 +35,7 @@ Xu Lab is also interested in recruiting motivated undergraduate and graduate stu
 - **GitHub:** [xulab-research](https://github.com/xulab-research)
 - **ORCID:** [0000-0002-9981-2097](https://orcid.org/0000-0002-9981-2097)
 - **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?user=PpO2_vsAAAAJ)
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/yunxin-xu-b2904a298)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yunxin-xu-b2904a298)
 - **Scopus:** [Scopus Author Profile](https://www.scopus.com/authid/detail.uri?authorId=58315812300)
 
 ---
